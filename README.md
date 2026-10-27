@@ -1,6 +1,6 @@
 <div align="center">
 
-# CNNs for E-Waste Laptop Component Classification
+# Convolutional Neural Networks for E-Waste Laptop Component Classification
 ### DenseNet-121 vs MobileNet-V2 with Focal Loss and Progressive Unfreezing
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
