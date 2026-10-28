@@ -1,0 +1,17 @@
+{
+  "best_epoch": 36,
+  "best_stage": "A",
+  "best_val_loss": 0.003101499518379569,
+  "best_val_acc": 1.0,
+  "trainable": {
+    "A": {
+      "total": 329221,
+      "backbone": 0,
+      "bn_trainable_layers": 0
+    }
+  },
+  "label": "Baseline_MobileNet-V2",
+  "seed": 3,
+  "do_unfreeze": false,
+  "bn_trainable": false
+}

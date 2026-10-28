@@ -1,0 +1,32 @@
+{
+  "best_epoch": 26,
+  "best_stage": "A",
+  "best_val_loss": 5.6079792557284236e-05,
+  "best_val_acc": 1.0,
+  "trainable": {
+    "A": {
+      "total": 263685,
+      "backbone": 0,
+      "bn_trainable_layers": 0
+    },
+    "B1": {
+      "total": 263685,
+      "backbone": 0,
+      "bn_trainable_layers": 0
+    },
+    "B2": {
+      "total": 263685,
+      "backbone": 0,
+      "bn_trainable_layers": 0
+    },
+    "B3": {
+      "total": 263685,
+      "backbone": 0,
+      "bn_trainable_layers": 0
+    }
+  },
+  "label": "Optimized_DenseNet-121_frozen_control",
+  "seed": 1,
+  "do_unfreeze": false,
+  "bn_trainable": false
+}

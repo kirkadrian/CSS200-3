@@ -1,0 +1,17 @@
+{
+  "best_epoch": 38,
+  "best_stage": "A",
+  "best_val_loss": 0.0029773167334496975,
+  "best_val_acc": 1.0,
+  "trainable": {
+    "A": {
+      "total": 263685,
+      "backbone": 0,
+      "bn_trainable_layers": 0
+    }
+  },
+  "label": "Baseline_DenseNet-121",
+  "seed": 2,
+  "do_unfreeze": false,
+  "bn_trainable": false
+}
